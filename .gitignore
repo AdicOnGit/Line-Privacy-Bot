@@ -1,0 +1,5 @@
+__pycache__
+venv
+.env
+authenticated_users.json
+group_id.txt
